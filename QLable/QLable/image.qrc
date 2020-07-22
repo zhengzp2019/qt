@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/2007203.gif</file>
+        <file>image/earth.jpg</file>
+    </qresource>
+</RCC>

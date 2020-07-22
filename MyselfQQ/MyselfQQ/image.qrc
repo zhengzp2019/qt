@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/2007204.jpg</file>
+        <file>image/2007205.jpg</file>
+        <file>image/2007206.jpg</file>
+        <file>image/2007207.jpg</file>
+        <file>image/2007208.jpg</file>
+        <file>image/2007209.jpg</file>
+        <file>image/20072010.jpg</file>
+        <file>image/20072011.jpg</file>
+        <file>image/20072012.jpg</file>
+        <file>image/20072013.jpg</file>
+        <file>image/20072014.jpg</file>
+        <file>image/20072015.jpg</file>
+        <file>image/2020072016.jpg</file>
+    </qresource>
+</RCC>

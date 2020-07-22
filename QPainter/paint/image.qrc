@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qt_image/20072013.jpg</file>
+        <file>qt_image/earth.jpg</file>
+    </qresource>
+</RCC>
