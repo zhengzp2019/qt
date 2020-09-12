@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/processforth.o
+release/processone.o
+release/processsecond.o
+release/processthird.o
+release/moc_mainwindow.o
+release/moc_processforth.o
+release/moc_processone.o
+release/moc_processsecond.o
+release/moc_processthird.o

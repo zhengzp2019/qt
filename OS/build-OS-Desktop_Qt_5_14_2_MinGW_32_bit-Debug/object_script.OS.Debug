@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/processforth.o
+debug/processone.o
+debug/processsecond.o
+debug/processthird.o
+debug/moc_mainwindow.o
+debug/moc_processforth.o
+debug/moc_processone.o
+debug/moc_processsecond.o
+debug/moc_processthird.o
