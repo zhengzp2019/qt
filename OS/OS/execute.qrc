@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>execute/disk_scheduling.exe</file>
+        <file>execute/Job_scheduling.exe</file>
+        <file>execute/memory_scheduling.exe</file>
+    </qresource>
+</RCC>

@@ -36,7 +36,13 @@ Widget::Widget(QWidget *parent)
             qDebug() << "save";
         }
     });
+
+    QPushButton *button2=new QPushButton("警告",this);
+    connect(button2,QPushButton::clicked,this,[=](){
+        QMessageBox::critical(this,"警告","这是一个警告对话框");
+    });
 }
 
 Widget::~Widget()
-{}
+{
+}

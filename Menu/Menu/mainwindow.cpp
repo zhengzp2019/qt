@@ -20,7 +20,8 @@ MainWindow::MainWindow(QWidget *parent)
 
     // 向菜单栏添加菜单
     QMenu *file_menu = menu_bar1->addMenu("文件");
-    QMenu *edit_menu = menu_bar1->addMenu("编辑");
+
+    //    QMenu *edit_menu = menu_bar1->addMenu("编辑");
 
     // 向菜单中添加菜单项
     QAction *open_action = file_menu->addAction("打开");
@@ -41,9 +42,10 @@ MainWindow::MainWindow(QWidget *parent)
     status->addWidget(new QLabel("状态")); // 向状态栏添加控件
 
     //    创建一个铆接部件
-    //    QDockWidget *dock_widget = new QDockWidget("这是一个铆接部件",this);
+    QDockWidget *dock_widget = new QDockWidget("这是一个铆接部件", this);
+
     //    将浮动窗口添加到mainwindow
-    //    this->addDockWidget(Qt::TopDockWidgetArea,dock_widget);
+    this->addDockWidget(Qt::TopDockWidgetArea, dock_widget);
     QTextEdit *text_edit = new QTextEdit("文本编辑器", this);
 
     this->setCentralWidget(text_edit);

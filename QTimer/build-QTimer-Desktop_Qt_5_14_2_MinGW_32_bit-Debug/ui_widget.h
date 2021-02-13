@@ -29,10 +29,10 @@ public:
         Widget->resize(400, 300);
         pushButton = new QPushButton(Widget);
         pushButton->setObjectName(QString::fromUtf8("pushButton"));
-        pushButton->setGeometry(QRect(120, 40, 80, 20));
+        pushButton->setGeometry(QRect(120, 40, 101, 41));
         pushButton_2 = new QPushButton(Widget);
         pushButton_2->setObjectName(QString::fromUtf8("pushButton_2"));
-        pushButton_2->setGeometry(QRect(120, 140, 80, 20));
+        pushButton_2->setGeometry(QRect(120, 140, 101, 51));
 
         retranslateUi(Widget);
 
@@ -43,7 +43,7 @@ public:
     {
         Widget->setWindowTitle(QCoreApplication::translate("Widget", "Widget", nullptr));
         pushButton->setText(QCoreApplication::translate("Widget", "\345\274\200\345\247\213", nullptr));
-        pushButton_2->setText(QCoreApplication::translate("Widget", "\345\217\226\346\266\210", nullptr));
+        pushButton_2->setText(QCoreApplication::translate("Widget", "\346\232\202\345\201\234", nullptr));
     } // retranslateUi
 
 };

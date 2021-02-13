@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/Icon - 学分.png</file>
+        <file>image/撤销.png</file>
+        <file>image/教师.png</file>
+        <file>image/进入.png</file>
+        <file>image/密码.png</file>
+        <file>image/确认.png</file>
+        <file>image/刷新.png</file>
+        <file>image/退出.png</file>
+        <file>image/学生.png</file>
+        <file>image/应用管理员管理.png</file>
+        <file>image/用户名.png</file>
+        <file>image/Back.png</file>
+        <file>image/Back_2.png</file>
+        <file>image/Close.png</file>
+        <file>image/Forward_2.png</file>
+        <file>image/Garbage.png</file>
+        <file>image/Search.png</file>
+        <file>image/Update.png</file>
+        <file>image/蓝色小鸟.png</file>
+        <file>image/管理员.png</file>
+        <file>image/添加.png</file>
+        <file>image/显示.png</file>
+        <file>image/搜索--1.png</file>
+        <file>image/课程名称.png</file>
+        <file>image/课程.png</file>
+        <file>image/background.jpg</file>
+    </qresource>
+</RCC>

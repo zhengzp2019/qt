@@ -18,8 +18,8 @@
     <rect>
      <x>120</x>
      <y>40</y>
-     <width>80</width>
-     <height>20</height>
+     <width>101</width>
+     <height>41</height>
     </rect>
    </property>
    <property name="text">
@@ -31,12 +31,12 @@
     <rect>
      <x>120</x>
      <y>140</y>
-     <width>80</width>
-     <height>20</height>
+     <width>101</width>
+     <height>51</height>
     </rect>
    </property>
    <property name="text">
-    <string>取消</string>
+    <string>暂停</string>
    </property>
   </widget>
  </widget>

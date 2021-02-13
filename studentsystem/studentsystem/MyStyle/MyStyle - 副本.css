@@ -1,0 +1,55 @@
+QWidget
+{
+    background:rgb(182, 200, 207);
+}
+
+QMenu
+{
+    border-radius: 5px;
+    background: rgb(208, 228, 236);
+    color:black;
+    /* font-size: 20px; */
+}
+
+QMenuBar
+{
+    border-radius: 5px;
+    background: rgb(208, 228, 236);
+    color:black;
+    /* font-size: 20px; */
+}
+
+QPushButton
+{
+    border-radius: 5px;
+    background: rgb(219, 223, 190);
+    color: black;
+    /* font-size: 20px; */
+}
+
+QRadioButton
+{
+    border-radius: 5px;
+    background:white;
+    color: black;
+}
+
+QLabel
+{
+    background: white;
+    color: black;
+    /* font-size: 20px; */
+}
+
+QLineEdit
+{
+    background: white;
+    color: black;
+    /* font-size: 20px; */
+}
+
+QGroupBox
+{
+    background: white;
+    color: black;
+}

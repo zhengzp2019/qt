@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\admin.o
+./debug\dbhandle.o
+./debug\widget.o
+./debug\display.o
+./debug\qrc_image.o
+./debug\qrc_mystyle.o
+./debug\moc_admin.o
+./debug\moc_widget.o
+./debug\moc_display.o
+);
